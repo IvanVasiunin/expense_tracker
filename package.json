@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://IvanVasiunin.github.io/expense_tracker/",
+  "homepage": "https://ivanvasiunin.github.io/expense_tracker/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
