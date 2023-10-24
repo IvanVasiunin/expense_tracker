@@ -4,7 +4,7 @@ import {useState} from 'react';
 const ExpenseForm = () => {
   const [enteredTitle, setEnteredTitle] = useState('');
   const [enteredAmount, setEnteredAmount] = useState(0);
-  const [enteredDate, setEnteredDate] = useState(new Date());
+  const [enteredDate, setEnteredDate] = useState(null);
 
   const titleChangeHandler = (e) => {
     setEnteredTitle(e.target.value);
