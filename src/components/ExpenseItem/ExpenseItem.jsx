@@ -2,6 +2,7 @@ import './ExpenseItem.css';
 import ExpenseDate from '../ExpenseDate/ExpenseDate';
 import Card from 'components/Card/Card';
 
+
 const ExpenseItem = ({date, title, amount}) => {
 
   return (
