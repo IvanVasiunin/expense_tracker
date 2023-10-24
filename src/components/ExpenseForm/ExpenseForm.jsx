@@ -4,7 +4,7 @@ import {useState} from 'react';
 const ExpenseForm = () => {
   const [enteredTitle, setEnteredTitle] = useState('');
   const [enteredAmount, setEnteredAmount] = useState(0);
-  const [enteredDate, setEnteredDate] = useState(null);
+  const [enteredDate, setEnteredDate] = useState('');
 
   const titleChangeHandler = (e) => {
     setEnteredTitle(e.target.value);
@@ -18,7 +18,7 @@ const ExpenseForm = () => {
     setEnteredDate(e.target.value);
   }
 
-
+  console.log(enteredTitle, enteredAmount, enteredDate);
   return (
     <form>
       <div className='new-expense__controls'>
