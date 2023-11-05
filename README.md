@@ -1,7 +1,7 @@
 # About
 
 <div align="center">
-<!--     <img src="https://github.com/IvanVasiunin/investment-calculator/blob/main/public/app_UI.jpg" alt="certificate" /> -->
+    <img src="https://github.com/IvanVasiunin/expense_tracker/blob/main/public/app_UI.jpg" alt="certificate" />
 </div>
 <br>
 
