@@ -1,10 +1,23 @@
-# React project template
+# About
 
-This project was created with
-[Create React App](https://github.com/facebook/create-react-app). To get
-acquainted and configure additional features
-[refer to documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<div align="center">
+<!--     <img src="https://github.com/IvanVasiunin/investment-calculator/blob/main/public/app_UI.jpg" alt="certificate" /> -->
+</div>
+<br>
 
-## Description
+Expense tracker, which allows you to track the amount of expenses per month and display data for a certain year on a chart.
 
-A simple expense tracker that displays expenses for a selected period in a table and chart and allows you to add new expenses to the table.
+# For developers
+
+In order to run the project:
+
+- Clone the project to your computer
+- Install all dependencies with: <code>npm install</code>
+- To start your project, use the command: <code>npm start</code>
+
+## Stack and Tools
+
+- HTML5
+- CSS3
+- Javascript
+- React.js (useState)
