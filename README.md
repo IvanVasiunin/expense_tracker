@@ -7,6 +7,10 @@
 
 Expense tracker, which allows you to track the amount of expenses per month and display data for a certain year on a chart.
 
+## Demo
+
+<a href="https://ivanvasiunin.github.io/expense_tracker/">Check demo here</a>
+
 # For developers
 
 In order to run the project:
